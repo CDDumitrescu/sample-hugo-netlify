@@ -10,28 +10,14 @@ media_folder: "static/images/uploads" # Media files will be stored in the repo u
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "page"
-    label: "Pages"
-    folder: "content/"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string", default: "title" }
-      - {
-          label: "Author",
-          name: "author",
-          widget: "select",
-          options: ["cristi", "jane"],
-        }
-      - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Content", name: "body", widget: "markdown" }
   - name: "product"
-    label: "Products"
+    label: "Product"
     folder: "content/products"
     create: true
     slug: "{{slug}}"
     fields:
       - { label: Title, name: "title", widget: "string"}
       - { label: "Date created", name: "date", widget: "datetime" }
+      - { label: "Created by", name: "createdby", widget: "select", options: ["alice", "bob"]}
       - { label: "Description", name: "description", widget: "markdown"}
       - { label: "Price", name: "price", widget: "number"}
