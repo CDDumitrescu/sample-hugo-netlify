@@ -1,4 +1,4 @@
-baseURL = 'http://cddumitrescu.github.io/sample-hugo-netlify/'
+baseURL = 'https://zen-heyrovsky-52da59.netlify.com/'
 languageCode = 'en-us'
 title = 'JAMSite'
 theme = 'tale'

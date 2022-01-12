@@ -39,11 +39,3 @@ collections:
           options: ["cristi", "jane"],
         }
       - { label: "Date", name: "date", widget: "datetime" }
-  - name: "junk"
-    label: "Junk"
-    folder: "content/junk"
-    create: true
-    slug: "{{slug}}"
-    fields: 
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Photo", name: "photo", widget: "image"}
