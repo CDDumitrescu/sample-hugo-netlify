@@ -5,4 +5,4 @@ createdby: alice
 description: a fast bike
 price: 1000
 ---
-super cool bike
+super cool bike <h1>{{ .Title}}</h1>
