@@ -21,3 +21,4 @@ collections:
       - { label: "Created by", name: "createdby", widget: "select", options: ["alice", "bob"]}
       - { label: "Description", name: "description", widget: "markdown"}
       - { label: "Price", name: "price", widget: "number"}
+      - { label: "Body", name: "body", widget: "markdown"}
