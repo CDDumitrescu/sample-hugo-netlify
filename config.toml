@@ -1,6 +1,6 @@
 baseURL = 'https://zen-heyrovsky-52da59.netlify.com/'
 languageCode = 'en-us'
 title = 'JAMSite'
-theme = 'tale'
+theme = 'vex'
 copyright = '(c) Cristi 2021'
 disableKinds = ['section']
