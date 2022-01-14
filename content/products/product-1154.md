@@ -1,6 +1,5 @@
 ---
 title: Product 1154
-date: 2022-01-12T21:26:45.758Z
 createdby: alice
 price: 12070
 ---

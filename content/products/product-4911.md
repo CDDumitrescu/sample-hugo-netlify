@@ -1,6 +1,5 @@
 ---
 title: Product 4911
-date: 2022-01-12T21:26:45.758Z
 createdby: alice
 price: 49640
 ---

@@ -1,6 +1,5 @@
 ---
 title: Product 3779
-date: 2022-01-12T21:26:45.758Z
 createdby: alice
 price: 38320
 ---

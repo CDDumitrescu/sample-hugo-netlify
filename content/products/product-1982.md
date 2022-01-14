@@ -1,6 +1,5 @@
 ---
 title: Product 1982
-date: 2022-01-12T21:26:45.758Z
 createdby: alice
 price: 20350
 ---

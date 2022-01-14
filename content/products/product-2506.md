@@ -1,6 +1,5 @@
 ---
 title: Product 2506
-date: 2022-01-12T21:26:45.758Z
 createdby: alice
 price: 25590
 ---

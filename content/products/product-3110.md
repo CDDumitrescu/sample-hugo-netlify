@@ -1,6 +1,5 @@
 ---
 title: Product 3110
-date: 2022-01-12T21:26:45.758Z
 createdby: alice
 price: 31630
 ---

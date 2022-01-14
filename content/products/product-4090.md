@@ -1,6 +1,5 @@
 ---
 title: Product 4090
-date: 2022-01-12T21:26:45.758Z
 createdby: alice
 price: 41430
 ---

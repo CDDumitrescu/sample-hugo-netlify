@@ -1,6 +1,5 @@
 ---
 title: Product 595
-date: 2022-01-12T21:26:45.758Z
 createdby: alice
 price: 6480
 ---

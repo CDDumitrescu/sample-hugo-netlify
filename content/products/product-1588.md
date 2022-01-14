@@ -1,6 +1,5 @@
 ---
 title: Product 1588
-date: 2022-01-12T21:26:45.758Z
 createdby: alice
 price: 16410
 ---

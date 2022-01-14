@@ -1,6 +1,5 @@
 ---
 title: Product 199
-date: 2022-01-12T21:26:45.758Z
 createdby: alice
 price: 2520
 ---
